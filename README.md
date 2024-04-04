@@ -3,6 +3,8 @@
 Header (Navigation): Provides navigation links to different sections of the website.
 
 Home Section: Introduces the user to the website with a greeting, name, and description. It also includes links to social media profiles.
+![Home_Page](https://github.com/Avishkar709/My_Portfolio/assets/165990602/37d4a34a-424a-42a0-9fd2-d401ce739658)
+
 
 About Section: Offers more details about the individual, including a brief biography and an image.
 
